@@ -72,7 +72,7 @@ Sketch folder: `GreenhouseCore/`
 
 |Folder|Contents|
 |-|-|
-|`1 hour run greenhouse data`|Full CSV log from the 1-hour continuous test run (Section 8 of the report)|
+|`1 hour run greenhouse data`|Full CSV log from the 1-hour continuous test run (Sections 8 and 9 of the report)|
 |`values used for calibration`|Raw reference-vs-sensor calibration data per sensor, underlying the calibration curves presented in Section 7|
 
 ## Serial Command Interface
