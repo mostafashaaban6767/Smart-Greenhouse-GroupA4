@@ -35,11 +35,12 @@ An Arduino Uno–based smart greenhouse system that monitors ambient conditions 
 |LDR (voltage divider)|Ambient light (optical)|
 |HW-080 + probe|Soil moisture (bonus)|
 |IRLZ44N MOSFET ×2|Pump and fan switching|
-|LM2596 buck converter|19V → regulated logic/actuator rail|
-|1N4007 flyback diodes ×2|Motor inductive-kickback protection|
+|LM2596 buck converter|19V → regulated 5V actuator rail|
+|1N4007 flyback diodes ×2|Motor-Pump inductive-kickback protection|
 |16×2 I2C LCD|Local status display|
 
 Full schematic: [`docs/Greenhouse\_Schematic.pdf`](docs/Greenhouse_Schematic.pdf)
+Bill of materials: [`docs/BOM.md`](docs/BOM.md)
 Component datasheets: [`docs/Datasheets`](docs/datasheets)
 
 ## Repository Structure
