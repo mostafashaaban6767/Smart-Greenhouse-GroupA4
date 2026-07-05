@@ -1,8 +1,8 @@
-# Smart Greenhouse — Group A4
+# Smart Greenhouse, Group A4
 
-**Course:** Sensors \& Instrumentation — Final Project
+**Course:** Sensors \& Instrumentation, Final Project
 **Instructor:** Dr. Mohamad Aoude
-**Institution:** Lebanese University — Faculty of Engineering III
+**Institution:** Lebanese University, Faculty of Engineering III
 **Academic Year:** 2025–2026
 
 ## Overview
@@ -11,7 +11,7 @@ An Arduino Uno–based smart greenhouse system that monitors ambient conditions 
 
 ### Automated behavior
 
-* **Irrigation:** the pump activates when soil moisture drops below a defined threshold *and* the reservoir has sufficient water (by weight), and shuts off on a runtime timeout or once reservoir weight drops below a minimum — whichever occurs first.
+* **Irrigation:** the pump activates when soil moisture drops below a defined threshold *and* the reservoir has sufficient water (by weight), and shuts off on a runtime timeout or once reservoir weight drops below a minimum, whichever occurs first.
 * **Cooling:** the fan switches on above a defined ambient temperature threshold and off below it.
 * **Manual override:** both the pump and fan (and the LCD display page) can be manually controlled over serial, independent of automatic control, for testing and calibration.
 
@@ -60,7 +60,7 @@ Sketch folder: `GreenhouseCore/`
 
 |File|Purpose|
 |-|-|
-|`GreenhouseCore.ino`|Main sketch — actuator control, LCD, serial commands, CSV logging|
+|`GreenhouseCore.ino`|Main sketch, actuator control, LCD, serial commands, CSV logging|
 |`DHT11\_Sensor.ino`|Temperature and humidity driver|
 |`ScaleHX711.ino`|Load cell / weight driver|
 |`FlowSensor.ino`|Flow rate driver (interrupt + debounce + median filter)|
