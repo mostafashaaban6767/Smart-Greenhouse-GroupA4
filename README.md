@@ -41,7 +41,7 @@ An Arduino Uno–based smart greenhouse system that monitors ambient conditions 
 
 Full schematic: [`docs/Greenhouse\_Schematic.pdf`](docs/Greenhouse_Schematic.pdf)
 Bill of materials: [`docs/BOM.md`](docs/BOM.md)
-Component datasheets: [`docs/Datasheets`](docs/datasheets)
+Component datasheets: [`docs/Datasheets`](docs/Datasheets)
 
 ## Repository Structure
 
