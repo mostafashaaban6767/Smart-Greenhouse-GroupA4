@@ -50,7 +50,7 @@ README.md
 /docs           Schematic, datasheets, and supporting reference material
 /code           Arduino firmware (modular, one file per sensor driver)
 /data           Raw calibration data and logged test-run CSVs
-/video          Demonstration video
+/video          Required videos links
 /report         Final technical report
 ```
 
@@ -112,7 +112,7 @@ A value of `-999` indicates the sensor had no valid reading at that tick (e.g. a
 |`DHT sensor library`|DHT11 temperature/humidity|*adafruit/DHT-sensor-library*|*MIT*|
 |`HX711`|Load cell amplifier interface|*bogde/HX711*|*MIT*|
 
-## Report and Demonstration
+## Report and Required Videos
 
 * Final technical report: [`report/Greenhouse_Final_Report.pdf`](report/Greenhouse_Final_Report.pdf)
 * Technical video link: [`video/technical_video_link.txt`](video/technical_video_link.txt)
