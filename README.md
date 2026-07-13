@@ -115,6 +115,7 @@ A value of `-999` indicates the sensor had no valid reading at that tick (e.g. a
 ## Report and Demonstration
 
 * Final technical report: [`report/Greenhouse_Final_Report.pdf`](report/Greenhouse_Final_Report.pdf)
+* Technical video link: [`video/technical_video_link.txt`](video/technical_video_link.txt)
 * Demonstration video link: [`video/demonstration_video_link.txt`](video/demonstration_video_link.txt)
 * Q&A video link: [`video/Q&A_video_link.txt`](video/Q&A_video_link.txt)
 
